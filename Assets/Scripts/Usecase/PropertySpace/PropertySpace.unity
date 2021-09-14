@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 522405071}
   - component: {fileID: 522405070}
   m_Layer: 0
-  m_Name: GameObject (1)
+  m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -149,15 +149,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 522405069}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d968196d682e69140b52f5ee89edcec3, type: 3}
+  m_Script: {fileID: 11500000, guid: bed7915f7566d6d4a8224644a35f0203, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  NoneMessage: "\u65E0"
-  InfoMessage: "\u65E0"
-  WarningMessage: "\u65E0"
-  ErrorMessage: "\u65E0"
-  haveVisibleIfMessage: 
-  visible: 1
+  unitySpace: 0
+  unitySpace1: 0
+  OdinSpace2: 0
+  BeforeAndAfter: 0
+  BeforeAndAfter1: 0
 --- !u!4 &522405071
 Transform:
   m_ObjectHideFlags: 0
